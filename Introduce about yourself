@@ -1,0 +1,18 @@
+I almost have 7 years experience as software engineer, my relevant experience in DevOps is 3 years, 
+In my intial stage as devops engineer,I worked on jenkins CI CD pipeling, maven as build tool, 
+git as a source code management or version control tool and sonarq later I started working on anisble as a configuration tool,
+terraform as infrastucture configuration and Coming to containerization and orchestration using docker and kubernetes, 
+even I am expertise on cloud technologies like AWS, Azure, GKE
+this is pretty much about me
+
+Day to day activities:
+we will get tasks, if any issue, any pod on K8’s getting restarted or memory/CPU issue of pod happened, I have to take care, 
+new services onboarding on AWS, creating instances, user creation, new account creation, new jenkin jobs onboarding, writng jenkin pipeline script
+like recently I was working on monitoring tool nagios, writing new ansible playbooks, uploading existing terraform code, networking related issues, DNS issue, 
+work on cloud service creation.
+
+Project:
+So our latest project is GKE project written some manifest files for containers on top of GKE cluster
+We have pod system in our pods we are getting different tasks and providing backend services, if any pods 
+goes down or any tickets are given if any pod issues any node issues in EKS cluster any issues happened I look into them.
+
